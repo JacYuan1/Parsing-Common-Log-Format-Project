@@ -32,5 +32,5 @@ The tools used here are the following:
 
 ## References
 
-1. [Written report linked here](https://github.com/JacYuan1/Parsing-Common-Log-Format/blob/main/Logs%20Example.pdf)
-2. [Code linked here](https://github.com/JacYuan1/Parsing-Common-Log-Format/blob/main/script.py)
+1. [Written report linked here](https://github.com/JacYuan1/Parsing-Common-Log-Format-Project/blob/main/Logs%20Example.pdf)
+2. [Code linked here](https://github.com/JacYuan1/Parsing-Common-Log-Format-Project/blob/main/script.py)
