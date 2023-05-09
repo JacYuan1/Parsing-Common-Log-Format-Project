@@ -32,4 +32,4 @@ The tools used here are the following:
 
 ## References
 
-[Written report linked here]()
+[Written report linked here](https://github.com/JacYuan1/Common-Log-Format-to-JSON-Project/blob/main/Logs%20Example.pdf)
