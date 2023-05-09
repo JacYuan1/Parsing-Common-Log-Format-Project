@@ -17,7 +17,7 @@ The premise of this project is to parse Common Log Format logs into a readable f
 The tools used here are the following:
 
 1. [Python](https://www.python.org/downloads/)
-2. [Common Log Format to JSON](https://github.com/fauzanelka/log2json)
+2. [log2json](https://github.com/fauzanelka/log2json)
 
 <h2 id="#Approach-to-Problem">Approach to Problem</h2>
 
