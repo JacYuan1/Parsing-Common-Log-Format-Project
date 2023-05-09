@@ -1,4 +1,4 @@
-# Parsing Common Log Format to JSON Project
+# Parsing Common Log Format
 
 ## Table of Contents
 
